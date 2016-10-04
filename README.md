@@ -1,6 +1,6 @@
 #Project Task Runner
 
-A javascript task runner for compiling SASS/SCSS, LESS or STYLUS file to minified/unminified CSS.
+A simplified Javascript Task Runner for compiling SASS/SCSS, LESS, or STYLUS file to minified / unminified CSS.
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
 
