@@ -2,7 +2,7 @@
 
 A simplified Javascript Task Runner for compiling SASS/SCSS, LESS, or STYLUS file to minified / unminified CSS.
 
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/) [![Build Status](https://travis-ci.org/rpbaguio/project-task-runner.svg?branch=master)](https://travis-ci.org/rpbaguio/project-task-runner)
 
 ## Getting started
 
