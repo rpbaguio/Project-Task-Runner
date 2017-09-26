@@ -37,34 +37,10 @@ npm will look at the package.json file and automatically install the necessary l
 $ grunt watch-scss
 ```
 
-**Watch task for LESS**
-
-```bash
-$ grunt watch-less
-```
-
-**Watch task for STYLUS**
-
-```bash
-$ grunt watch-stylus
-```
-
 **Compile task for SASS/SCSS**
 
 ```bash
 $ grunt dist-scss
-```
-
-**Compile task for LESS**
-
-```bash
-$ grunt dist-less
-```
-
-**Compile task for STYLUS**
-
-```bash
-$ grunt dist-stylus
 ```
 
 **Full distribution task for SASS/SCSS**
@@ -73,10 +49,34 @@ $ grunt dist-stylus
 $ grunt dist-scss
 ```
 
+**Watch task for LESS**
+
+```bash
+$ grunt watch-less
+```
+
+**Compile task for LESS**
+
+```bash
+$ grunt dist-less
+```
+
 **Full distribution task for LESS**
 
 ```bash
 $ grunt dist-less
+```
+
+**Watch task for STYLUS**
+
+```bash
+$ grunt watch-stylus
+```
+
+**Compile task for STYLUS**
+
+```bash
+$ grunt dist-stylus
 ```
 
 **Full distribution task for STYLUS**
