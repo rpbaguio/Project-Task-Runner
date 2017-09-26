@@ -29,7 +29,9 @@ $ npm install
 npm will look at the package.json file and automatically install the necessary local dependencies listed there.
 
 
-### Tasks command
+## Tasks command
+
+### SCSS
 
 **Watch task for SASS/SCSS**
 
@@ -49,6 +51,9 @@ $ grunt dist-scss
 $ grunt dist-scss
 ```
 
+
+### LESS
+
 **Watch task for LESS**
 
 ```bash
@@ -67,6 +72,9 @@ $ grunt dist-less
 $ grunt dist-less
 ```
 
+
+### STYLUS
+
 **Watch task for STYLUS**
 
 ```bash
@@ -84,6 +92,7 @@ $ grunt dist-stylus
 ```bash
 $ grunt dist-stylus
 ```
+
 
 ### License
 
