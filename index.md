@@ -1,6 +1,6 @@
-#Project Task Runner
+# Project Task Runner
 
-A simplified Javascript Task Runner for compiling SASS/SCSS, LESS, or STYLUS files to minified / unminified CSS.
+A simplified Javascript Task Runner for compiling SASS/SCSS, LESS, or STYLUS file to minified / unminified CSS.
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
 
@@ -29,61 +29,70 @@ $ npm install
 npm will look at the package.json file and automatically install the necessary local dependencies listed there.
 
 
-### Tasks command
+## Tasks command
 
-**Watch task for SASS/SCSS**
+### SCSS
+
+**Watch task**
 
 ```bash
 $ grunt watch-scss
 ```
 
-**Watch task for LESS**
+**Compile task**
+
+```bash
+$ grunt dist-scss
+```
+
+**Full distribution task**
+
+```bash
+$ grunt dist-scss
+```
+
+
+### LESS
+
+**Watch task**
 
 ```bash
 $ grunt watch-less
 ```
 
-**Watch task for STYLUS**
+**Compile task**
+
+```bash
+$ grunt dist-less
+```
+
+**Full distribution task**
+
+```bash
+$ grunt dist-less
+```
+
+
+### STYLUS
+
+**Watch task**
 
 ```bash
 $ grunt watch-stylus
 ```
 
-**Compile task for SASS/SCSS**
-
-```bash
-$ grunt dist-scss
-```
-
-**Compile task for LESS**
-
-```bash
-$ grunt dist-less
-```
-
-**Compile task for STYLUS**
+**Compile task**
 
 ```bash
 $ grunt dist-stylus
 ```
 
-**Full distribution task for SASS/SCSS**
-
-```bash
-$ grunt dist-scss
-```
-
-**Full distribution task for LESS**
-
-```bash
-$ grunt dist-less
-```
-
-**Full distribution task for STYLUS**
+**Full distribution task**
 
 ```bash
 $ grunt dist-stylus
 ```
+
 
 ### License
 
