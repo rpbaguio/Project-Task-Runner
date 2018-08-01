@@ -47,6 +47,12 @@ $ grunt watch-less
 $ grunt watch-stylus
 ```
 
+**Watch task for STYLUS**
+
+```bash
+$ grunt watch-js
+```
+
 **Compile task for SASS/SCSS**
 
 ```bash
@@ -63,6 +69,12 @@ $ grunt dist-less
 
 ```bash
 $ grunt dist-stylus
+```
+
+**Compile task for JS**
+
+```bash
+$ grunt dist-js
 ```
 
 **Full distribution task for SASS/SCSS**
@@ -82,6 +94,16 @@ $ grunt dist-less
 ```bash
 $ grunt dist-stylus
 ```
+
+**Full distribution task for JS**
+
+```bash
+$ grunt dist-js
+```
+
+**Using the Grunt CLI**
+
+[https://gruntjs.com/using-the-cli](https://gruntjs.com/using-the-cli)
 
 ### License
 
