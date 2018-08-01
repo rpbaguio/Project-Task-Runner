@@ -1,4 +1,4 @@
-A javascript task runner for compiling CSS Pre-Processor (SASS/SCSS, LESS or STYLUS) files to minified/unminified CSS.
+A simplified javascript task runner for compiling CSS Pre-processor (SASS/SCSS, LESS, or STYLUS) and JS files to minified/unminified CSS.
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
 
