@@ -1,1 +1,15 @@
-﻿
+﻿// Border Radius 
+@mixin border-radius($top-left, $top-right, $bottom-right, $bottom-left) {
+  -webkit-border-radius: $top-left $top-right $bottom-right $bottom-left;
+  -moz-border-radius: $top-left $top-right $bottom-right $bottom-left;
+  border-radius: $top-left $top-right $bottom-right $bottom-left;
+}
+
+// Box Shadow 
+@mixin box-shadow($inset, $x, $y, $blur, $spread, $color) {
+  @if $inset {
+    box-shadow: $inset $x $y $blur $spread $color;
+  } @else {
+    box-shadow: $x $y $blur $spread $color;
+  }
+}

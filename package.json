@@ -1,32 +1,96 @@
 {
-  "name": "project-task-runner",
-  "css_name": "style",
-  "version": "1.0.2",
-  "description": "Project task runner",
+  "_args": [
+    [
+      {
+        "raw": "project-task-runner",
+        "scope": null,
+        "escapedName": "project-task-runner",
+        "name": "project-task-runner",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      }
+    ]
+  ],
+  "_from": "project-task-runner@latest",
+  "_id": "project-task-runner@1.0.2",
+  "_inCache": true,
+  "_location": "/project-task-runner",
+  "_nodeVersion": "0.12.5",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/project-task-runner-1.0.2.tgz_1465466784161_0.6917319784406573"
+  },
+  "_npmUser": {
+    "name": "rpbaguio",
+    "email": "rpbaguio@gmail.com"
+  },
+  "_npmVersion": "2.11.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "project-task-runner",
+    "scope": null,
+    "escapedName": "project-task-runner",
+    "name": "project-task-runner",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/project-task-runner/-/project-task-runner-1.0.2.tgz",
+  "_shasum": "9e670aedbf178fd3ce610c1b7822d82e0c111caa",
+  "_shrinkwrap": null,
+  "_spec": "project-task-runner",
   "author": {
     "name": "Raymond Baguio",
     "email": "rpbaguio@gmail.com",
     "url": "http://rpbaguio.com"
   },
+  "bugs": {
+    "url": "https://github.com/rpbaguio/project-task-runner/issues"
+  },
+  "css_name": "style",
+  "js_name": "default",
+  "dependencies": {},
+  "description": "Project task runner",
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-contrib-sass": "^1.0.0",
-    "grunt-contrib-less": "^1.3.0",
-    "grunt-contrib-stylus": "^1.2.0",
     "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-csslint": "^1.0.0",
     "grunt-contrib-cssmin": "^1.0.1",
-    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-less": "^1.3.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-stylus": "^1.2.0",
+    "grunt-contrib-uglify": "^1.0.2",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-csscomb": "^3.1.0",
     "grunt-notify": "^0.4.5",
     "load-grunt-tasks": "^3.5.0",
     "time-grunt": "^1.3.0"
   },
+  "directories": {},
+  "dist": {
+    "shasum": "9e670aedbf178fd3ce610c1b7822d82e0c111caa",
+    "tarball": "https://registry.npmjs.org/project-task-runner/-/project-task-runner-1.0.2.tgz"
+  },
+  "homepage": "https://github.com/rpbaguio/project-task-runner#readme",
   "license": "MIT",
+  "maintainers": [
+    {
+      "name": "rpbaguio",
+      "email": "rpbaguio@gmail.com"
+    }
+  ],
+  "name": "project-task-runner",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rpbaguio/project-task-runner.git"
-  }
+    "url": "git+https://github.com/rpbaguio/project-task-runner.git"
+  },
+  "scripts": {},
+  "version": "1.0.2"
 }
