@@ -47,7 +47,7 @@ $ grunt watch-less
 $ grunt watch-stylus
 ```
 
-**Watch task for STYLUS**
+**Watch task for JS**
 
 ```bash
 $ grunt watch-js
