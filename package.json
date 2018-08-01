@@ -1,6 +1,7 @@
 {
     "name": "project-task-runner",
     "css_name": "style",
+    "js_name": "default",
     "version": "2.0.0",
     "description": "Project task runner",
     "author": {
