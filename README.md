@@ -1,6 +1,6 @@
 A simplified javascript task runner for compiling SASS/SCSS, LESS, STYLUS, and JS files to minified/unminified version.
 
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
+[![Built with Grunt](http://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/)
 
 ## Getting started
 
